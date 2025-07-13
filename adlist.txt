@@ -3,3 +3,9 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 zoo.zxphiz.tech
 0.0.0.0 config2.unityads.unity3d.com
+0.0.0.0 bbcuqp-launches.appsflyersdk.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 i-sdk.mediation.unity3d.com
+0.0.0.0 bbcuqp-launches.appsflyersdk.com
+0.0.0.0 unif-id.ssp.inmobi.com
+0.0.0.0 cdn.iads.unity3d.com
