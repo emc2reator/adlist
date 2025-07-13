@@ -1,0 +1,5 @@
+# Title: emc2reator/adlist
+# android games
+0.0.0.0 event.togothermany.com
+0.0.0.0 zoo.zxphiz.tech
+0.0.0.0 config2.unityads.unity3d.com
