@@ -12,16 +12,22 @@
 0.0.0.0 api.onegg.site
 0.0.0.0 api.zmqdez.ru
 0.0.0.0 arg.atomex.net
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 bbcuqp-launches.appsflyersdk.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn.iads.unity3d.com
 0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn-adn-https.mtgglobals.com
 0.0.0.0 cdn-adn-https-new.mtgglobals.com
 0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 configure.mtgglobals.com
 0.0.0.0 configure-tcp-android.mtgglobals.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 dfmh0rww5t4da.cloudfront.net
@@ -36,6 +42,7 @@
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 i-sdk.mediation.unity3d.com
 0.0.0.0 logs.ads.vungle.com
+0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 m.mradx.net
 0.0.0.0 mraid.bigo.sg
 0.0.0.0 ms.applovin.com
@@ -52,12 +59,14 @@
 0.0.0.0 pay.togothermany.com
 0.0.0.0 play.mtgglobals.com
 0.0.0.0 pl-point.mtgglobals.com
+0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 remotecfg.togothermany.com
 # 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 # 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 x.blueduckredapple.com
