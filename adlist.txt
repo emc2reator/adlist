@@ -53,10 +53,10 @@
 0.0.0.0 pl-point.mtgglobals.com
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 remotecfg.togothermany.com
-0.0.0.0 report.appmetrica.yandex.net
+# 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
-0.0.0.0 startup.mobile.yandex.net
+# 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 unif-id.ssp.inmobi.com
 0.0.0.0 x.blueduckredapple.com
