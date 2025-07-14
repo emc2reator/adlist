@@ -62,3 +62,7 @@
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.everestop.io
 0.0.0.0 zoo.zxphiz.tech
+
+# OZON App
+0.0.0.0 wcm.weborama-tech.ru
+0.0.0.0 launches.appsflyersdk.com
