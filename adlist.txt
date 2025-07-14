@@ -29,6 +29,7 @@
 0.0.0.0 event.togothermany.com
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 gdl.kingads.ru
 0.0.0.0 gw-is.iads.unity3d.com
 0.0.0.0 hb.mtgglobals.com
