@@ -1,8 +1,8 @@
 # Title: emc2reator/adlist
-#android os
+# Android OS
 0.0.0.0 mtalk.google.com
 0.0.0.0 play-fe.googleapis.com
-# android games
+# Android Games
 0.0.0.0 ad.mail.ru
 0.0.0.0 ads.inmobi.com
 0.0.0.0 adsbidding.togothermany.com
@@ -76,7 +76,6 @@
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.everestop.io
 0.0.0.0 zoo.zxphiz.tech
-
 # OZON App
 0.0.0.0 wcm.weborama-tech.ru
 0.0.0.0 launches.appsflyersdk.com
