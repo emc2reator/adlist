@@ -1,4 +1,7 @@
 # Title: emc2reator/adlist
+#android os
+0.0.0.0 mtalk.google.com
+0.0.0.0 play-fe.googleapis.com
 # android games
 0.0.0.0 ad.mail.ru
 0.0.0.0 ads.inmobi.com
