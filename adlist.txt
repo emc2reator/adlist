@@ -2,6 +2,12 @@
 # Android OS
 0.0.0.0 mtalk.google.com
 0.0.0.0 play-fe.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 proactivebackend-pa.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 # Android Games
 0.0.0.0 ad.mail.ru
 0.0.0.0 ads.inmobi.com
@@ -79,3 +85,5 @@
 # OZON App
 0.0.0.0 wcm.weborama-tech.ru
 0.0.0.0 launches.appsflyersdk.com
+# Yandex Apps
+0.0.0.0 ezfweb-cdn-settings.appsflyersdk.com
