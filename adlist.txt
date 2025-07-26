@@ -72,10 +72,8 @@
 0.0.0.0 pls.prd.mz.internal.unity3d.com
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 remotecfg.togothermany.com
-# 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
-# 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 unif-id.ssp.inmobi.com
@@ -92,4 +90,6 @@
 0.0.0.0 suggest.dzen.ru
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 rosenberg.appmetrica.yandex.net
+0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 egress.yandex.net
+0.0.0.0 startup.mobile.yandex.net
