@@ -2,7 +2,7 @@ This is adlist for mikrotik routers.
 List is formed by myself using PCAPdroid to find query from different apps.
 
 
-I also use^
+I also use:
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://cdn.jsdelivr.net/gh/tarampampam/mikrotik-hosts-parser@master/.hosts/basic.txt
