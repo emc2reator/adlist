@@ -87,3 +87,9 @@
 0.0.0.0 launches.appsflyersdk.com
 # Yandex Apps
 0.0.0.0 ezfweb-cdn-settings.appsflyersdk.com
+0.0.0.0 static.dzen.infra.ru
+0.0.0.0 suggest.sso.dzen.ru
+0.0.0.0 suggest.dzen.ru
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 rosenberg.appmetrica.yandex.net
+0.0.0.0 egress.yandex.net
