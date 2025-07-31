@@ -98,3 +98,5 @@
 0.0.0.0 nabucasa.com
 #TP-Link
 0.0.0.0 aps1-relay-dcipc.i.tplinknbu.com
+#OTHER
+0.0.0.0 arkatelecom.am
