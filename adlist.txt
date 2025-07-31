@@ -96,3 +96,5 @@
 0.0.0.0 startup.mobile.yandex.net
 # HomeAssisrant
 0.0.0.0 nabucasa.com
+#TP-Link
+0.0.0.0 aps1-relay-dcipc.i.tplinknbu.com
