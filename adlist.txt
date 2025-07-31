@@ -1,7 +1,7 @@
 # Title: emc2reator/adlist
 # Android OS
 0.0.0.0 mtalk.google.com
-0.0.0.0 play-fe.googleapis.com
+#0.0.0.0 play-fe.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 proactivebackend-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
