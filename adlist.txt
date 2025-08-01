@@ -116,4 +116,7 @@
 0.0.0.0 ncsi-geo.trafficmanager.net
 0.0.0.0 ncsiv6-geo.trafficmanager.net
 0.0.0.0 staticcdn.duckduckgo.com
-# 0.0.0.0 static.dzeninfra.ru
+0.0.0.0 static.dzeninfra.ru
+0.0.0.0 dmp.one
+0.0.0.0 cllctr.roistat.com
+0.0.0.0 digitaltarget.ru
