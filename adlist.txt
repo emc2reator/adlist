@@ -97,9 +97,23 @@
 # HomeAssisrant
 0.0.0.0 nabucasa.com
 0.0.0.0 aa015h6buqvih86i1.api.met.no
-#TP-Link
+# TP-Link IoT
 0.0.0.0 aps1-relay-dcipc.i.tplinknbu.com
 0.0.0.0 n-euw1-device-api.tplinkcloud.com
-#OTHER
+# BROTHER printer
+0.0.0.0 connections.brother.com
+# OTHER
 0.0.0.0 arkatelecom.am
 0.0.0.0 cdn.segmento.ru
+0.0.0.0 6c0a0cc4124fbdbcc2720dcd9f59e6-6ffd7885b8ce48c9855325a3bbf23abb.ops.beeline.ru
+0.0.0.0 gc-rog.asus.com.cn
+0.0.0.0 ip4.tracker-api.vk-analytics.ru
+0.0.0.0 ts.tracker-api.vk-analytics.ru
+0.0.0.0 www.msftncsi.com.edgesuite.net
+0.0.0.0 00810440-f3a1-4dc7-8e46-76b1c8ebb295.selcdn.net
+0.0.0.0 BCMLS2.glpals.com
+0.0.0.0 bcmlto.glpals.com.edgesuite.net
+0.0.0.0 ncsi-geo.trafficmanager.net
+0.0.0.0 ncsiv6-geo.trafficmanager.net
+0.0.0.0 staticcdn.duckduckgo.com
+# 0.0.0.0 static.dzeninfra.ru
