@@ -120,3 +120,12 @@
 0.0.0.0 dmp.one
 0.0.0.0 cllctr.roistat.com
 0.0.0.0 digitaltarget.ru
+0.0.0.0 ab-ct.ru
+0.0.0.0 adfox.ru
+0.0.0.0 consent.cookiebot.eu
+0.0.0.0 improving.duckduckgo.com
+0.0.0.0 pixelsmart.ru
+0.0.0.0 rog-live-service.asus.com.cn
+0.0.0.0 sbup.com
+0.0.0.0 service.game-mode.net
+0.0.0.0 securepubads.g.doubleclick.net
