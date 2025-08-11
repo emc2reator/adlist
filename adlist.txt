@@ -129,3 +129,7 @@
 0.0.0.0 sbup.com
 0.0.0.0 service.game-mode.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 c2y23vzfb5cg.statuspage.io
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 *arin.net
+0.0.0.0 graph.facebook.com
