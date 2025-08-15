@@ -94,6 +94,10 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 egress.yandex.net
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 yabs.yandex.net
+0.0.0.0 amc.yandex.ru
+0.0.0.0 lbs-slb.mobile.yandex.net
+0.0.0.0 surveys.yandex.ru
 # HomeAssisrant
 0.0.0.0 nabucasa.com
 0.0.0.0 aa015h6buqvih86i1.api.met.no
@@ -133,3 +137,4 @@
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 *arin.net
 0.0.0.0 graph.facebook.com
+0.0.0.0 ads.betweendigital.com
