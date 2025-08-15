@@ -94,6 +94,7 @@
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 egress.yandex.net
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 yabs.yandex.net
 0.0.0.0 amc.yandex.ru
 0.0.0.0 lbs-slb.mobile.yandex.net
