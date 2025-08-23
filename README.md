@@ -1,5 +1,5 @@
 This is adlist for mikrotik routers.
-List is formed by myself using PCAPdroid to find query from different apps.
+List is formed by myself using PCAPdroid & Milrotik->IP->DNS-> Cache to find query from different apps and servises from phone and PC.
 
 
 I also use:  
