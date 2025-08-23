@@ -145,3 +145,17 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 data.killbot.ru
+0.0.0.0 z-m-gateway.facebook.com
+0.0.0.0 www.pinterest.com.edgekey.net
+0.0.0.0 security.iot.i.tplinknbu.com
+0.0.0.0 mirror.karneval.cz
+0.0.0.0 dual-s-0005-office.config.skype.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 arc.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 api16-access-wf-sg.pangle.io.edgesuite.net
+0.0.0.0 alibaba.cdn.steampipe.steamcontent.com
+0.0.0.0 acroipm2.adobe.com.edgesuite.net
+0.0.0.0 api-mycloud.zyxel.com
+0.0.0.0 ifrus.coloros.com
+0.0.0.0 ip4.tracker-api.my.com
