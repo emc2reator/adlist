@@ -105,6 +105,7 @@
 # TP-Link IoT
 0.0.0.0 aps1-relay-dcipc.i.tplinknbu.com
 0.0.0.0 n-euw1-device-api.tplinkcloud.com
+0.0.0.0 security.iot.i.tplinknbu.com
 # BROTHER printer
 0.0.0.0 connections.brother.com
 # OTHER
@@ -147,7 +148,6 @@
 0.0.0.0 data.killbot.ru
 0.0.0.0 z-m-gateway.facebook.com
 0.0.0.0 www.pinterest.com.edgekey.net
-0.0.0.0 security.iot.i.tplinknbu.com
 0.0.0.0 mirror.karneval.cz
 0.0.0.0 dual-s-0005-office.config.skype.com
 0.0.0.0 config.edge.skype.com
