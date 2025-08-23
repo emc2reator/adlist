@@ -159,3 +159,4 @@
 0.0.0.0 api-mycloud.zyxel.com
 0.0.0.0 ifrus.coloros.com
 0.0.0.0 ip4.tracker-api.my.com
+0.0.0.0 yoyo.org
