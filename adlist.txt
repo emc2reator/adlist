@@ -9,6 +9,8 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 ondevicesafety-pa.googleapis.com
+0.0.0.0 app-measurement.com
 # Android Games
 0.0.0.0 ad.mail.ru
 0.0.0.0 ads.inmobi.com
@@ -85,6 +87,8 @@
 0.0.0.0 a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 player-auth.services.api.unity.com
 # OZON App
 0.0.0.0 wcm.weborama-tech.ru
 0.0.0.0 launches.appsflyersdk.com
@@ -165,3 +169,7 @@
 0.0.0.0 ip4.tracker-api.my.com
 0.0.0.0 ts.tracker-api.my.com
 0.0.0.0 yoyo.org
+0.0.0.0 mimir2.vivaldi.com
+0.0.0.0 staticcdn.duckduckgo.com
+0.0.0.0 mobile.yandexadexchange.net
+0.0.0.0 firebase-settings.crashlytics.com
