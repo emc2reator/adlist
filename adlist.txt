@@ -171,3 +171,4 @@
 0.0.0.0 www.pinterest.com.edgekey.net
 0.0.0.0 yoyo.org
 0.0.0.0 z-m-gateway.facebook.com
+0.0.0.0 yandex.ru/an/count/*
