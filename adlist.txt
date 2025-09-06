@@ -122,6 +122,7 @@
 0.0.0.0 ab-ct.ru
 0.0.0.0 acroipm2.adobe.com.edgesuite.net
 0.0.0.0 ad.adriver.ru
+0.0.0.0 ads.adfox.ru
 0.0.0.0 adfox.ru
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 alibaba.cdn.steampipe.steamcontent.com
