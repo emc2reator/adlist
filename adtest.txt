@@ -1,0 +1,2 @@
+# This file is for testing regexp for URL blocking
+0.0.0.0 /yandex\.ru\/an\/count\/.*
