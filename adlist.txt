@@ -104,7 +104,7 @@
 0.0.0.0 suggest.dzen.ru
 0.0.0.0 suggest.sso.dzen.ru
 0.0.0.0 surveys.yandex.ru
-0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagmanager.com
 0.0.0.0 yabs.yandex.net
 # HomeAssisrant
 0.0.0.0 aa015h6buqvih86i1.api.met.no
@@ -174,4 +174,8 @@
 0.0.0.0 www.pinterest.com.edgekey.net
 0.0.0.0 yoyo.org
 0.0.0.0 z-m-gateway.facebook.com
-0.0.0.0 yandex.ru/an/count/*
+# WEB ADS
+0.0.0.0 yandex.ru/ads/system/context.js
+0.0.0.0 yandex.ru/ads/system/header-bidding.js
+0.0.0.0 ad.mail.ru/static/ads-async.js
+0.0.0.0 yastatic.net
