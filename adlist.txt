@@ -179,3 +179,4 @@
 0.0.0.0 yandex.ru/ads/system/header-bidding.js
 0.0.0.0 ad.mail.ru/static/ads-async.js
 0.0.0.0 yastatic.net
+0.0.0.0 yandex.ru/an/count
