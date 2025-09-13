@@ -93,6 +93,8 @@
 0.0.0.0 wcm.weborama-tech.ru
 # Yandex Apps
 0.0.0.0 amc.yandex.ru
+0.0.0.0 an.yandex.ru
+0.0.0.0 mc.yandex.ru
 0.0.0.0 api.lbs.yandex.net
 0.0.0.0 egress.yandex.net
 0.0.0.0 ezfweb-cdn-settings.appsflyersdk.com
