@@ -96,12 +96,16 @@
 0.0.0.0 egress.yandex.net
 0.0.0.0 ezfweb-cdn-settings.appsflyersdk.com
 0.0.0.0 lbs-slb.mobile.yandex.net
+0.0.0.0 market-click2.yandex.ru
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 sba.yandex.net
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 static.dzen.infra.ru
+0.0.0.0 strm-m9-13.strm.yandex.net
+0.0.0.0 strm-m9-14.strm.yandex.net
+0.0.0.0 strm-m9-68.strm.yandex.net
 0.0.0.0 strm-m9-86.strm.yandex.net
 0.0.0.0 suggest.dzen.ru
 0.0.0.0 suggest.sso.dzen.ru
@@ -200,7 +204,6 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 service.game-mode.net
 0.0.0.0 static.dzeninfra.ru
-0.0.0.0 staticcdn.duckduckgo.com
 0.0.0.0 staticcdn.duckduckgo.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 tools.mouseflow.com
