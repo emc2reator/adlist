@@ -120,6 +120,10 @@
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 offerwall.yandex.ru
 0.0..0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 yandexadexchange.net
+0.0.0.0 analytics.mobile.yandex.net
+0.0.0.0 adsdk.yandex.ru
 # HomeAssisrant
 0.0.0.0 aa015h6buqvih86i1.api.met.no
 0.0.0.0 nabucasa.com
@@ -254,4 +258,20 @@
 0.0.0.0 yastatic.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
-
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 ads-dev.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 events.reddit.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 analytics.samsungknox.com
+0.0.0.0 bigdata.ssp.samsung.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 advertising-api-eu.amazon.com
