@@ -117,6 +117,8 @@
 0.0.0.0 surveys.yandex.ru
 0.0.0.0 googletagmanager.com
 0.0.0.0 yabs.yandex.net
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 offerwall.yandex.ru
 # HomeAssisrant
 0.0.0.0 aa015h6buqvih86i1.api.met.no
 0.0.0.0 nabucasa.com
