@@ -118,8 +118,7 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 yabs.yandex.net
 0.0.0.0 offerwall.yandex.net
-0.0.0.0 offerwall.yandex.ru
-#0.0..0.0 extmaps-api.yandex.net
+#0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 yandexadexchange.net
 0.0.0.0 analytics.mobile.yandex.net
