@@ -252,7 +252,6 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 ads-api.x.com
-0.0.0.0 storage.mds.yandex.net
 0.0.0.0 counter.yadro.ru
 0.0.0.0 yastatic.net
 0.0.0.0 static.doubleclick.net
