@@ -107,11 +107,11 @@
 0.0.0.0 startup-mobile.ap.yandex-net.ru
 0.0.0.0 static.dzen.infra.ru
 0.0.0.0 storage.mds.yandex.net
-#0.0.0.0 strm-m9-13.strm.yandex.net
-#0.0.0.0 strm-m9-14.strm.yandex.net
-#0.0.0.0 strm-m9-68.strm.yandex.net
-#0.0.0.0 strm-m9-86.strm.yandex.net
-#0.0.0.0 strm-m9-151.strm.yandex.net
+0.0.0.0 strm-m9-13.strm.yandex.net
+0.0.0.0 strm-m9-14.strm.yandex.net
+0.0.0.0 strm-m9-68.strm.yandex.net
+0.0.0.0 strm-m9-86.strm.yandex.net
+0.0.0.0 strm-m9-151.strm.yandex.net
 0.0.0.0 suggest.dzen.ru
 0.0.0.0 suggest.sso.dzen.ru
 0.0.0.0 surveys.yandex.ru
@@ -253,7 +253,6 @@
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 ads-api.x.com
 0.0.0.0 counter.yadro.ru
-0.0.0.0 yastatic.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 widgets.pinterest.com
