@@ -124,7 +124,7 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 static.dzeninfra.ru
-0.0.0.0 yastatic.net
+#0.0.0.0 yastatic.net
 # HomeAssisrant
 0.0.0.0 aa015h6buqvih86i1.api.met.no
 0.0.0.0 nabucasa.com
