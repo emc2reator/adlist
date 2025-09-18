@@ -272,3 +272,7 @@
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 media.net
+0.0.0.0 static.media.net
+0.0.0.0 adservetx.media.net
+0.0.0.0 pagead2.googlesyndication.com
