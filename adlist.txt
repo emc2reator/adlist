@@ -298,3 +298,7 @@
 0.0.0.0 seve.tlddarfs.com
 0.0.0.0 trk.adeeply.ru
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.gallery.intl.miui.com
+0.0.0.0 privacy.api.intl.miui.com
+0.0.0.0 dns.google
+0.0.0.0 app-measurement.com
