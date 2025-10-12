@@ -282,6 +282,7 @@
 #MUIU (XIAOMI/POCO)
 0.0.0.0 ru.global.market.xiaomi.com
 0.0.0.0 sdkconfig.rus.xiaomi.com
+0.0.0.0 sdkconfig.ad.rus.xiaomi.com
 0.0.0.0 sf0.market.xiaomi.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 file.market.xiaomi.com
