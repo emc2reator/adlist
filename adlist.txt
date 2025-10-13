@@ -54,6 +54,7 @@
 0.0.0.0 gdl.kingads.ru
 0.0.0.0 gw-is.iads.unity3d.com
 0.0.0.0 hb.mtgglobals.com
+0.0.0.0 hb.rayjump.com
 0.0.0.0 impression-europe.liftoff.io
 0.0.0.0 i-sdk.mediation.unity3d.com
 0.0.0.0 logs.ads.vungle.com
