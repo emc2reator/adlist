@@ -89,6 +89,10 @@
 0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x.everestop.io
 0.0.0.0 zoo.zxphiz.tech
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 apichain.blockchainds.com
+0.0.0.0 apichain.catappult.io
+0.0.0.0 strm-m9-74.strm.yandex.net
 # OZON App
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 wcm.weborama-tech.ru
