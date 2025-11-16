@@ -93,6 +93,7 @@
 0.0.0.0 apichain.blockchainds.com
 0.0.0.0 apichain.catappult.io
 0.0.0.0 strm-m9-74.strm.yandex.net
+0.0.0.0 app.appsflyer.com
 # OZON App
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 wcm.weborama-tech.ru
