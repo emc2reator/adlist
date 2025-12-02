@@ -98,6 +98,7 @@
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 wcm.weborama-tech.ru
 # Yandex Apps & Services
+0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 amc.yandex.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 mc.yandex.ru
