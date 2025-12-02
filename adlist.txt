@@ -143,8 +143,12 @@
 # FIREFOX
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 www.googleadservices.com
-# OTHER
+# OTHER ADS
 0.0.0.0 adv.rustore.ru
+0.0.0.0 12ezo5v60.com
+0.0.0.0 ybs2ffs7v.com
+# OTHER
+0.0.0.0 priorato.org
 0.0.0.0 00810440-f3a1-4dc7-8e46-76b1c8ebb295.selcdn.net
 0.0.0.0 6c0a0cc4124fbdbcc2720dcd9f59e6-6ffd7885b8ce48c9855325a3bbf23abb.ops.beeline.ru
 0.0.0.0 ab-ct.ru
