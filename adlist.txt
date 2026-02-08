@@ -166,7 +166,6 @@
 0.0.0.0 ads.vk.com
 0.0.0.0 api.vk.com
 0.0.0.0 alt-ad.mail.ru
-
 # OTHER
 0.0.0.0 priorato.org
 0.0.0.0 00810440-f3a1-4dc7-8e46-76b1c8ebb295.selcdn.net
