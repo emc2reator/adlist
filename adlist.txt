@@ -12,6 +12,7 @@
 0.0.0.0 nearbysharing-pa.googleapis.com
 0.0.0.0 ondevicesafety-pa.googleapis.com
 0.0.0.0 proactivebackend-pa.googleapis.com
+0.0.0.0 securepubads.g.doubleclick.net
 # Android Games
 0.0.0.0 a.d06e447042015e1498d7fdfab5170fec04ac8397e34356bff8445372.com
 0.0.0.0 a.e68eaebc30768a673848927c2b8c8e38c38fd42312e367bca04fc622.com
@@ -21,6 +22,7 @@
 0.0.0.0 ads.inmobi.com
 0.0.0.0 adsbidding.togothermany.com
 0.0.0.0 adscfg.togothermany.com
+0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adx.ads.vungle.com
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 ae.iads.unity3d.com
