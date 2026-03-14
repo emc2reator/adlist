@@ -336,3 +336,6 @@
 0.0.0.0 privacy.api.intl.miui.com
 0.0.0.0 dns.google
 0.0.0.0 app-measurement.com
+#WINDOWS
+0.0.0.0 config.edge.skype.com
+0.0.0.0 dual-s-0005-office.config.skype.com
