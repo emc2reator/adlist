@@ -369,3 +369,57 @@
 0.0.0.0 tns-counter.ru
 0.0.0.0 openstat.ru
 0.0.0.0 storeland.ru
+0.0.0.0 adbot.tw
+0.0.0.0 ufpcdn.com
+0.0.0.0 ad-maven.com
+0.0.0.0 wrethicap.info
+0.0.0.0 wrethicap.info
+0.0.0.0 adnium.com
+0.0.0.0 montwam.top
+0.0.0.0 adsco.re
+0.0.0.0 zadn.vn
+0.0.0.0 albacross.com
+0.0.0.0 ansira.com
+0.0.0.0 appcast.io
+0.0.0.0 avantlink.com
+0.0.0.0 avantmetrics.com
+0.0.0.0 digitalwindow.com
+0.0.0.0 dwin1.com
+0.0.0.0 perfiliate.com
+0.0.0.0 vendemore.com
+0.0.0.0 choozle.com
+0.0.0.0 consumable.com
+0.0.0.0 doubleverify.com
+0.0.0.0 audienceiq.com
+0.0.0.0 fanplayr.com
+0.0.0.0 fiksu.com
+0.0.0.0 2mdn.net
+0.0.0.0 admeld.com
+0.0.0.0 admob.com
+0.0.0.0 adwords.google.com
+0.0.0.0 destinationurl.com
+0.0.0.0 developers.google.com
+doubleclick.net
+google-analytics.com
+googletagservices.com
+invitemedia.com
+teracent.com
+teracent.net
+voice.google.com
+ytsa.net
+hotmart.com
+hotmart.com
+hotmart.com
+hotmart.com
+drawbrid.ge
+atdmt.com
+friendfeed.com
+atlassolutions.com
+kissmetrics.com
+servedbyopenx.com
+bkrtx.com
+bluekai.com
+fastclick.net
+emjcd.com
+flocktory.com
+smartyads.com
