@@ -340,3 +340,32 @@
 #WINDOWS
 0.0.0.0 config.edge.skype.com
 0.0.0.0 dual-s-0005-office.config.skype.com
+#20260412_TC
+0.0.0.0 datamind.ru
+0.0.0.0 mail365.ru
+0.0.0.0 sailplay.ru
+0.0.0.0 altergeo.ru
+0.0.0.0 begun.ru
+0.0.0.0 clickfrog.ru
+0.0.0.0 digitaltarget.ru
+0.0.0.0 directadvert.ru
+0.0.0.0 eyenewton.ru
+0.0.0.0 gnezdo.ru
+0.0.0.0 liveinternet.ru
+0.0.0.0 yadro.ru
+0.0.0.0 manifest.ru
+0.0.0.0 bannerbank.ru
+0.0.0.0 megaindex.ru
+0.0.0.0 otm-r.ru
+0.0.0.0 popunder.ru
+0.0.0.0 rutarget.ru
+0.0.0.0 sape.ru
+0.0.0.0 smi2.ru
+0.0.0.0 ttarget.ru
+0.0.0.0 moikrug.ru
+0.0.0.0 amocrm.ru
+0.0.0.0 infostars.ru
+0.0.0.0 hotlog.ru
+0.0.0.0 tns-counter.ru
+0.0.0.0 openstat.ru
+0.0.0.0 storeland.ru
