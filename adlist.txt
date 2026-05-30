@@ -399,27 +399,25 @@
 0.0.0.0 adwords.google.com
 0.0.0.0 destinationurl.com
 0.0.0.0 developers.google.com
-doubleclick.net
-google-analytics.com
-googletagservices.com
-invitemedia.com
-teracent.com
-teracent.net
-voice.google.com
-ytsa.net
-hotmart.com
-hotmart.com
-hotmart.com
-hotmart.com
-drawbrid.ge
-atdmt.com
-friendfeed.com
-atlassolutions.com
-kissmetrics.com
-servedbyopenx.com
-bkrtx.com
-bluekai.com
-fastclick.net
-emjcd.com
-flocktory.com
-smartyads.com
+0.0.0.0 doubleclick.net
+0.0.0.0 google-analytics.com
+0.0.0.0 googletagservices.com
+0.0.0.0 invitemedia.com
+0.0.0.0 teracent.com
+0.0.0.0 teracent.net
+0.0.0.0 voice.google.com
+0.0.0.0 ytsa.net
+0.0.0.0 hotmart.com
+0.0.0.0 drawbrid.ge
+0.0.0.0 atdmt.com
+0.0.0.0 friendfeed.com
+0.0.0.0 atlassolutions.com
+0.0.0.0 kissmetrics.com
+0.0.0.0 servedbyopenx.com
+0.0.0.0 bkrtx.com
+0.0.0.0 bluekai.com
+0.0.0.0 fastclick.net
+0.0.0.0 emjcd.com
+0.0.0.0 flocktory.com
+0.0.0.0 smartyads.com
+0.0.0.0 prd-lb.x5media.ru
