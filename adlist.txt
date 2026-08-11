@@ -340,6 +340,8 @@
 #WINDOWS
 0.0.0.0 config.edge.skype.com
 0.0.0.0 dual-s-0005-office.config.skype.com
+0.0.0.0 trafficmanager.net
+0.0.0.0 securepubads.g.doubleclick.net
 #20260412_TC
 0.0.0.0 datamind.ru
 0.0.0.0 mail365.ru
